@@ -93,3 +93,26 @@ D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj
 D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.dll
 D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.pdb
 D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.genruntimeconfig.cache
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.api.deps.json
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.json
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.dev.json
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.api.dll
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.api.pdb
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\InterView\trafic\TraficSignalApi\Test.api\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.csprojAssemblyReference.cache
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfoInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfo.cs
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CoreCompileInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cache
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cs
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorTargetAssemblyInfo.cache
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CopyComplete
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.dll
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.pdb
+D:\InterView\trafic\TraficSignalApi\Test.api\obj\Debug\netcoreapp2.2\Test.api.genruntimeconfig.cache

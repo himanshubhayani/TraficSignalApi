@@ -46,3 +46,15 @@ D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.cspr
 D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.dll
 D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.pdb
 D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.genruntimeconfig.cache
+D:\InterView\trafic\TraficSignalApi\Test.data\bin\Debug\netcoreapp2.2\Test.data.deps.json
+D:\InterView\trafic\TraficSignalApi\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.json
+D:\InterView\trafic\TraficSignalApi\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.dev.json
+D:\InterView\trafic\TraficSignalApi\Test.data\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\InterView\trafic\TraficSignalApi\Test.data\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.csprojAssemblyReference.cache
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfoInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfo.cs
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.csproj.CoreCompileInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.dll
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.pdb
+D:\InterView\trafic\TraficSignalApi\Test.data\obj\Debug\netcoreapp2.2\Test.data.genruntimeconfig.cache

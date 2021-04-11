@@ -46,3 +46,15 @@ D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\
 D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CopyComplete
 D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.dll
 D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.deps.json
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csprojAssemblyReference.cache
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfoInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfo.cs
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CoreCompileInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CopyComplete
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\InterView\trafic\TraficSignalApi\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.pdb

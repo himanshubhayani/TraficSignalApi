@@ -22,12 +22,56 @@ namespace Test.api.Controllers
     public class UserController : Controller
     {
         #region 'Constructor'
-        public UserController()
+        private readonly IUserService _userService;
+        MessageVM messageVM = new MessageVM();
+        public UserController(IUserService userService)
         {
-           
+            _userService = userService;
         }
         #endregion
 
-       
+        /// <summary>
+        /// This API called when user register.
+        /// </summary>
+        /// <param name="Model"> User Model</param>
+        /// <returns></returns>
+        [HttpPost("CreateUser")]
+        public async Task<OperationResult<Users>> CreateUser([FromBody] Users Model)
+        {
+            try
+            {
+                var result = await _userService.CheckInsertOrUpdateAsync(Model);
+                return new OperationResult<Users>(result);
+            }
+
+            catch (Exception ex)
+            {
+                messageVM.MessageType = Convert.ToInt32(MessageType.Error);
+                messageVM.Message = CommonMessage.DefaultErrorMessage;
+                return new OperationResult<Users>(messageVM, false);
+            }
+        }
+
+        /// <summary>
+        /// This API called for Get all active user.
+        /// </summary>
+        /// <param name="Model"> User Model</param>
+        /// <returns></returns>
+        [HttpGet("GetAllUser")]
+        public async Task<OperationResult<List<Users>>> GetAllActiveUser()
+        {
+            try
+            {
+                var result = await _userService.GetAllActiveUser();
+                return new OperationResult<List<Users>>(result);
+            }
+
+            catch (Exception ex)
+            {
+                messageVM.MessageType = Convert.ToInt32(MessageType.Error);
+                messageVM.Message = CommonMessage.DefaultErrorMessage;
+                return new OperationResult<List<Users>>(messageVM, false);
+            }
+        }
     }
 }

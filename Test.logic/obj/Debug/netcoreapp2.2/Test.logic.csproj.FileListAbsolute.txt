@@ -54,3 +54,17 @@ D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.cs
 D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CopyComplete
 D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.dll
 D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.pdb
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.deps.json
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\InterView\trafic\TraficSignalApi\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csprojAssemblyReference.cache
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfoInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfo.cs
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CoreCompileInputs.cache
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CopyComplete
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.dll
+D:\InterView\trafic\TraficSignalApi\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.pdb

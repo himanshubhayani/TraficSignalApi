@@ -8200,11 +8200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trafic Signal Management\\Api\\Test.data\\Test.data.csproj",
+      "projectUniqueName": "D:\\InterView\\trafic\\TraficSignalApi\\Test.data\\Test.data.csproj",
       "projectName": "Test.data",
-      "projectPath": "D:\\Trafic Signal Management\\Api\\Test.data\\Test.data.csproj",
+      "projectPath": "D:\\InterView\\trafic\\TraficSignalApi\\Test.data\\Test.data.csproj",
       "packagesPath": "C:\\Users\\himan\\.nuget\\packages\\",
-      "outputPath": "D:\\Trafic Signal Management\\Api\\Test.data\\obj\\",
+      "outputPath": "D:\\InterView\\trafic\\TraficSignalApi\\Test.data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
