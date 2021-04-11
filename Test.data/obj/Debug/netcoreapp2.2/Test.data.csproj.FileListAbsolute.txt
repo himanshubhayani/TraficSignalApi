@@ -1,0 +1,48 @@
+D:\project\Test\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.deps.json
+D:\project\Test\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.json
+D:\project\Test\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.dev.json
+D:\project\Test\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\project\Test\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csprojAssemblyReference.cache
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csproj.CoreCompileInputs.cache
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfoInputs.cache
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfo.cs
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.dll
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.pdb
+D:\project\Test\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.genruntimeconfig.cache
+D:\common project folder\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.deps.json
+D:\common project folder\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.json
+D:\common project folder\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.dev.json
+D:\common project folder\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\common project folder\Test Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csprojAssemblyReference.cache
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfoInputs.cache
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfo.cs
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csproj.CoreCompileInputs.cache
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.dll
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.pdb
+D:\common project folder\Test Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.genruntimeconfig.cache
+D:\Test\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.deps.json
+D:\Test\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.json
+D:\Test\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.dev.json
+D:\Test\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Test\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csprojAssemblyReference.cache
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfoInputs.cache
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfo.cs
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csproj.CoreCompileInputs.cache
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.dll
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.pdb
+D:\Test\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.genruntimeconfig.cache
+D:\Trafic Signal Management\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.deps.json
+D:\Trafic Signal Management\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.json
+D:\Trafic Signal Management\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.runtimeconfig.dev.json
+D:\Trafic Signal Management\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Trafic Signal Management\Api\Test.data\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csprojAssemblyReference.cache
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfoInputs.cache
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.AssemblyInfo.cs
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.csproj.CoreCompileInputs.cache
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.dll
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.pdb
+D:\Trafic Signal Management\Api\Test.data\obj\Debug\netcoreapp2.2\Test.data.genruntimeconfig.cache

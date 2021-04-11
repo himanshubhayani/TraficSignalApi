@@ -1,0 +1,48 @@
+D:\project\Test\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.deps.json
+D:\project\Test\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\project\Test\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\project\Test\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\project\Test\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csprojAssemblyReference.cache
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CoreCompileInputs.cache
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfoInputs.cache
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfo.cs
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CopyComplete
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\project\Test\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\common project folder\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.deps.json
+D:\common project folder\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\common project folder\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\common project folder\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\common project folder\Test Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csprojAssemblyReference.cache
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfoInputs.cache
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfo.cs
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CoreCompileInputs.cache
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CopyComplete
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\common project folder\Test Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Test\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.deps.json
+D:\Test\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Test\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Test\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Test\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csprojAssemblyReference.cache
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfoInputs.cache
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfo.cs
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CoreCompileInputs.cache
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CopyComplete
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Test\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Trafic Signal Management\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.deps.json
+D:\Trafic Signal Management\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Trafic Signal Management\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Trafic Signal Management\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Trafic Signal Management\Api\Test.jwt.authentication\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csprojAssemblyReference.cache
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfoInputs.cache
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.AssemblyInfo.cs
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CoreCompileInputs.cache
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.csproj.CopyComplete
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Trafic Signal Management\Api\Test.jwt.authentication\obj\Debug\netcoreapp2.2\Test.jwt.authentication.pdb

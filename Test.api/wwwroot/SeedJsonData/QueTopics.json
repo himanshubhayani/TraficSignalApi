@@ -1,0 +1,212 @@
+[
+    {
+        "Id": "1",
+        "Name": "Resources",
+        "CodeName": "resources"
+    },
+    {
+        "Id": "2",
+        "Name": "Customer Focus",
+        "CodeName": "customer focus"
+    },
+    {
+        "Id": "3",
+        "Name": "Innovation",
+        "CodeName": "innovation"
+    },
+    {
+        "Id": "4",
+        "Name": "Direction",
+        "CodeName": "direction"
+    },
+    {
+        "Id": "5",
+        "Name": "Training",
+        "CodeName": "training"
+    },
+    {
+        "Id": "6",
+        "Name": "Change Management",
+        "CodeName": "change management"
+    },
+    {
+        "Id": "7",
+        "Name": "Engagement",
+        "CodeName": "engagement"
+    },
+    {
+        "Id": "8",
+        "Name": "Career Growth",
+        "CodeName": "career growth"
+    },
+    {
+        "Id": "9",
+        "Name": "Recognition",
+        "CodeName": "recognition"
+    },
+    {
+        "Id": "10",
+        "Name": "Survey",
+        "CodeName": "survey"
+    },
+    {
+        "Id": "11",
+        "Name": "Alignment",
+        "CodeName": "alignment"
+    },
+    {
+        "Id": "12",
+        "Name": "Ethics",
+        "CodeName": "ethics"
+    },
+    {
+        "Id": "13",
+        "Name": "Metrics",
+        "CodeName": "metrics"
+    },
+    {
+        "Id": "14",
+        "Name": "Decisions",
+        "CodeName": "decisions"
+    },
+    {
+        "Id": "15",
+        "Name": "Tools",
+        "CodeName": "tools"
+    },
+    {
+        "Id": "16",
+        "Name": "Executive Leadership",
+        "CodeName": "executive leadership"
+    },
+    {
+        "Id": "17",
+        "Name": "Manager",
+        "CodeName": "manager"
+    },
+    {
+        "Id": "18",
+        "Name": "Values",
+        "CodeName": "values"
+    },
+    {
+        "Id": "19",
+        "Name": "Decision",
+        "CodeName": "decisions "
+    },
+    {
+        "Id": "20",
+        "Name": "Work Process",
+        "CodeName": "work process"
+    },
+    {
+        "Id": "21",
+        "Name": "Teamwork",
+        "CodeName": "teamwork"
+    },
+    {
+        "Id": "22",
+        "Name": "Communication",
+        "CodeName": "communication"
+    },
+    {
+        "Id": "23",
+        "Name": "Workload",
+        "CodeName": "workload"
+    },
+    {
+        "Id": "24",
+        "Name": "Sales",
+        "CodeName": "sales"
+    },
+    {
+        "Id": "25",
+        "Name": "Diversity",
+        "CodeName": "diversity"
+    },
+    {
+        "Id": "26",
+        "Name": "Safety",
+        "CodeName": "safety"
+    },
+    {
+        "Id": "27",
+        "Name": "Work-Life Balance",
+        "CodeName": "work-life balance"
+    },
+    {
+        "Id": "28",
+        "Name": "Accountability ",
+        "CodeName": "accountability "
+    },
+    {
+        "Id": "29",
+        "Name": "Benefits",
+        "CodeName": "benefits"
+    },
+    {
+        "Id": "30",
+        "Name": "Job Security",
+        "CodeName": "job security"
+    },
+    {
+        "Id": "31",
+        "Name": "Open Ended",
+        "CodeName": "open ended "
+    },
+    {
+        "Id": "32",
+        "Name": "Compensation",
+        "CodeName": "compensation"
+    },
+    {
+        "Id": "33",
+        "Name": "Competitiveness",
+        "CodeName": "competitiveness"
+    },
+    {
+        "Id": "34",
+        "Name": "Globalization",
+        "CodeName": "globalization"
+    },
+    {
+        "Id": "35",
+        "Name": "Information",
+        "CodeName": "information"
+    },
+    {
+        "Id": "36",
+        "Name": "Work Environment",
+        "CodeName": "work environment"
+    },
+    {
+        "Id": "37",
+        "Name": "Support",
+        "CodeName": "support"
+    },
+    {
+        "Id": "38",
+        "Name": "Involvement",
+        "CodeName": "involvement"
+    },
+    {
+        "Id": "39",
+        "Name": "Meetings",
+        "CodeName": "meetings"
+    },
+    {
+        "Id": "40",
+        "Name": "Performance Management",
+        "CodeName": "performance management"
+    },
+    {
+        "Id": "41",
+        "Name": "Community",
+        "CodeName": "community"
+    },
+    {
+        "Id": "42",
+        "Name": "Risk",
+        "CodeName": "risk"
+    }
+]

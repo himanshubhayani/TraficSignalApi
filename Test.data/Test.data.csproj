@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Migrations\20190402111434_test.cs" />
+    <Compile Remove="Migrations\20190402111907_Client_Table_Update.cs" />
+    <Compile Remove="Migrations\20190513055723_Initila_DB.cs" />
+    <Compile Remove="Migrations\20190524145550_test.cs" />
+    <Compile Remove="Migrations\20190529132026_tests.cs" />
+    <Compile Remove="Migrations\20190529132128_testt.cs" />
+    <Compile Remove="Migrations\20190530043004_InitialDB.cs" />
+    <Compile Remove="Migrations\20190530043314_InitialDB.cs" />
+    <Compile Remove="Migrations\20190603073546_InitialDB.cs" />
+    <Compile Remove="Migrations\20200211063120_Add_ColorScheme_SurveysTbl.cs" />
+    <Compile Remove="Migrations\20200211063120_Add_ColorScheme_SurveysTbl.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="2.0.0-preview1-final" />
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="4.5.1" />
+    <PackageReference Include="System.Collections.Immutable" Version="1.5.0" />
+    <PackageReference Include="Autofac" Version="4.8.1" />
+    <PackageReference Include="Microsoft.ApplicationBlocks.Data" Version="2.0.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.2.0" />    
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+</Project>

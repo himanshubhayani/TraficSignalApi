@@ -1,0 +1,27 @@
+[
+    {
+        "Id": "1",
+        "Name": "Questions",
+        "CodeName": "Questions"
+    },
+    {
+        "Id": "2",
+        "Name": "Scales",
+        "CodeName": "Scales"
+    },
+    {
+        "Id": "3",
+        "Name": "Phrases",
+        "CodeName": "Phrases"
+    },
+    {
+        "Id": "4",
+        "Name": "Buttons",
+        "CodeName": "Buttons"
+    },
+    {
+        "Id": "5",
+        "Name": "Emails",
+        "CodeName": "Emails"
+    }
+]

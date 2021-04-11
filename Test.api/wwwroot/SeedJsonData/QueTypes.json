@@ -1,0 +1,17 @@
+[
+    {
+        "Id": "1",
+        "Name": "Opinion",
+        "CodeName": "opinion"
+    },
+    {
+        "Id": "2",
+        "Name": "Open End",
+        "CodeName": "open end"
+    },
+    {
+        "Id": "3",
+        "Name": "Demographic",
+        "CodeName": "demographic"
+    }
+]

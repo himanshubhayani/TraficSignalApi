@@ -1,0 +1,95 @@
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.deps.json
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.json
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.dev.json
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.dll
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.pdb
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csprojAssemblyReference.cache
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CoreCompileInputs.cache
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cache
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cs
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfoInputs.cache
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfo.cs
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorTargetAssemblyInfo.cache
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CopyComplete
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.dll
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.pdb
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\project\Test\Test Api\Test.api\bin\Debug\netcoreapp2.2\properties\launchSettings.json
+D:\project\Test\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.genruntimeconfig.cache
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\properties\launchSettings.json
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.deps.json
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.json
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.dev.json
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.dll
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.pdb
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\common project folder\Test Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csprojAssemblyReference.cache
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfoInputs.cache
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfo.cs
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CoreCompileInputs.cache
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cache
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cs
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorTargetAssemblyInfo.cache
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CopyComplete
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.dll
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.pdb
+D:\common project folder\Test Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.genruntimeconfig.cache
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\properties\launchSettings.json
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.deps.json
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.json
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.dev.json
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.dll
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.pdb
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Test\Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csprojAssemblyReference.cache
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfoInputs.cache
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfo.cs
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CoreCompileInputs.cache
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cache
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cs
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorTargetAssemblyInfo.cache
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CopyComplete
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.dll
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.pdb
+D:\Test\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.genruntimeconfig.cache
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.deps.json
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.json
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.runtimeconfig.dev.json
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.dll
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.api.pdb
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Trafic Signal Management\Api\Test.api\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csprojAssemblyReference.cache
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfoInputs.cache
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.AssemblyInfo.cs
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CoreCompileInputs.cache
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cache
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorAssemblyInfo.cs
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.RazorTargetAssemblyInfo.cache
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.csproj.CopyComplete
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.dll
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.pdb
+D:\Trafic Signal Management\Api\Test.api\obj\Debug\netcoreapp2.2\Test.api.genruntimeconfig.cache

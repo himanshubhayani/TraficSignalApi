@@ -1,0 +1,56 @@
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.deps.json
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\project\Test\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csprojAssemblyReference.cache
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CoreCompileInputs.cache
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfoInputs.cache
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfo.cs
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CopyComplete
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.dll
+D:\project\Test\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.pdb
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.deps.json
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\common project folder\Test Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csprojAssemblyReference.cache
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfoInputs.cache
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfo.cs
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CoreCompileInputs.cache
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CopyComplete
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.dll
+D:\common project folder\Test Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.pdb
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.deps.json
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Test\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csprojAssemblyReference.cache
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfoInputs.cache
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfo.cs
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CoreCompileInputs.cache
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CopyComplete
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.dll
+D:\Test\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.pdb
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.deps.json
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.dll
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.logic.pdb
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.dll
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.dll
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.data.pdb
+D:\Trafic Signal Management\Api\Test.logic\bin\Debug\netcoreapp2.2\Test.jwt.authentication.pdb
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csprojAssemblyReference.cache
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfoInputs.cache
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.AssemblyInfo.cs
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CoreCompileInputs.cache
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.csproj.CopyComplete
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.dll
+D:\Trafic Signal Management\Api\Test.logic\obj\Debug\netcoreapp2.2\Test.logic.pdb

@@ -1,0 +1,22 @@
+[
+    {
+        "Id": "1",
+        "Name": "Processing",
+        "CodeName": "Processing"
+    },
+    {
+        "Id": "2",
+        "Name": "Pending",
+        "CodeName": "Pending"
+    },
+    {
+        "Id": "3",
+        "Name": "Invalid",
+        "CodeName": "Invalid"
+    },
+    {
+        "Id": "4",
+        "Name": "Uploaded",
+        "CodeName": "Uploaded"
+    }
+]
